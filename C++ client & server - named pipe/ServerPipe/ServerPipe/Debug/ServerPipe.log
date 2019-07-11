@@ -1,0 +1,8 @@
+﻿  ServerPipe.cpp
+i:\shawon\mfc application\named pipe\c++ client & server - named pipe\serverpipe\serverpipe\serverpipe.cpp(75): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+i:\shawon\mfc application\named pipe\c++ client & server - named pipe\serverpipe\serverpipe\serverpipe.cpp(82): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+i:\shawon\mfc application\named pipe\c++ client & server - named pipe\serverpipe\serverpipe\serverpipe.cpp(89): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+  ServerPipe.vcxproj -> I:\Shawon\MFC Application\Named Pipe\C++ client & server - named pipe\ServerPipe\Debug\ServerPipe.exe
